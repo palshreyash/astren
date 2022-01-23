@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "AstrenApp",
+    "slug": "astren-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/appstore.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.astren.empower",
+      "buildNumber": "2.0.0",
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./app/assets/LogoSignup.png"
+    },
+    "description": "The app is to register users for Astren Empower App!!"
+  }
+}
